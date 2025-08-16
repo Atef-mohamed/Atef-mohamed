@@ -1,20 +1,23 @@
 <div align="center">
+<h1 align="center">Hi <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="40" height="40">
+</picture>, I'm Atef</h1> 
 
-<img src="https://raw.githubusercontent.com/AhmedAlAteeq/AhmedAlAteeq/main/assets/hello.gif" alt="Hello Coders" width="60%"/> <br>
-<img src="https://raw.githubusercontent.com/AhmedAlAteeq/AhmedAlAteeq/main/assets/coding.gif" alt="Coding"  width="40%"/><br> 
+🚀 Front-End Developer | Web Designer  
 
-# 👋 Hi there, I'm Atef Mohamed  
-### 🚀 Front-End Developer | Web Designer  
+<br>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
 
 </div>
 
 ---
 
 ## 👨‍💻 About Me
-- Front-End Developer with 3+ years of experience  
-- Specialized in **Landing Page design and development** and building responsive websites  
-- Passionate about turning ideas into beautiful designs and smooth user experiences  
-- Always eager to learn new technologies and improve my skills  
+- Front-End Developer specialized in building **responsive websites**  
+- Passionate about creating **modern, user-friendly interfaces** and smooth experiences  
+- Always exploring new tools, frameworks, and techniques to improve my skills  
 
 ---
 
@@ -32,20 +35,10 @@
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=atfMohamed&show_icons=true&theme=tokyonight" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=atfMohamed&theme=tokyonight" width="48%"/>
-
-</div>
-
----
-
 ## 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 🌐 [Portfolio](https://your-portfolio-link.com)  
-- 📧 Email: yourname@email.com  
+- <a href="https://www.linkedin.com/in/atefmohamed0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Atef Mohamed" height="30" width="40" /></a>
+
+- 📧 Email: atefmohammed.cs@email.com  
 
 ---
 

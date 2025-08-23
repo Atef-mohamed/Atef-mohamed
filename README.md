@@ -15,15 +15,12 @@
 ---
 
 ## 👨‍💻 About Me
-- Front-End Developer specialized in building **responsive websites**  
-- Passionate about creating **modern, user-friendly interfaces** and smooth experiences  
-- Always exploring new tools, frameworks, and techniques to improve my skills  
+<div align="center">
+<img  src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="250" alt="Coding GIF" style="z-index:99;"/>
+</div>
 
----
-## 📊 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atef-mohamed&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</p>
+I am a  Software Engineer & Front-End Developer
+Specialized in building responsive, modern, and user-friendly web applications. Passionate about designing smooth experiences and exploring new tools, frameworks, and best practices to continuously improve and deliver high-quality solutions.
 
 ---
 ## 🛠️ Tech Stack
@@ -39,6 +36,11 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
+## 📊 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atef-mohamed&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</p>
+
 
 ## 📫 Connect With Me
 - <a href="https://www.linkedin.com/in/atefmohamed0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Atef Mohamed" height="30" width="40" /></a>

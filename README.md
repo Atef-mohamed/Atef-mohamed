@@ -8,16 +8,15 @@
 
 <br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
+<div align="center">
+<img  src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="250" alt="Coding GIF" style="z-index:99;"/>
+</div>
 
 </div>
 
 ---
 
 ## 👨‍💻 About Me
-<div align="center">
-<img  src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="250" alt="Coding GIF" style="z-index:99;"/>
-</div>
 
 I am a  Software Engineer & Front-End Developer
 Specialized in building responsive, modern, and user-friendly web applications. Passionate about designing smooth experiences and exploring new tools, frameworks, and best practices to continuously improve and deliver high-quality solutions.

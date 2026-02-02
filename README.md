@@ -4,7 +4,7 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="40" height="40">
 </picture>, I'm Atef</h1> 
 
-🚀 Front-End Developer | Web Designer  
+🚀 Front-End Developer
 
 <br>
 

@@ -46,7 +46,7 @@ const atef = {
 
 ### Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nuxtjs,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css&theme=dark" />
 </p>
 
 ### Styling & UI
@@ -54,19 +54,15 @@ const atef = {
   <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,styledcomponents&theme=dark" />
 </p>
 
-### State & Data
-<p>
-  <img src="https://skillicons.dev/icons?i=supabase,firebase,graphql,jquery&theme=dark" />
-</p>
 
 ### Build Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=vite,webpack,rollupjs,babel,npm,pnpm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vite,webpack,babel,npm,pnpm&theme=dark" />
 </p>
 
 ### Testing & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=jest,cypress,cloudflare,githubactions,git,github,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=jest,cloudflare,git,github,vscode,figma&theme=dark" />
 </p>
 
 </div>

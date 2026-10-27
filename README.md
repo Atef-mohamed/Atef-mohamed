@@ -32,7 +32,7 @@ const atef = {
 - Architecting **scalable frontend systems** with SPAs, SDK integrations, and micro-frontends
 - Building **web components, SDKs** and design systems at scale
 - Deep in **state management, event-driven architectures** and cross-iframe communication
-- Working across **Vue.js, Nuxt, React & TypeScript** daily
+- Working across **Twig, Twilight, React & TypeScript** daily
 - Turning **business logic** into clean, maintainable frontend code
 
 <br clear="right"/>
@@ -83,6 +83,9 @@ const atef = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atef-mohamed&bg_color=0a0a12&color=00F7FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true" width="100%"/>
 
 </div>
+
+
+---
 
 <div align="center">
 

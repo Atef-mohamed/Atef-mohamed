@@ -54,7 +54,6 @@ const atef = {
   <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,styledcomponents&theme=dark" />
 </p>
 
-
 ### Build Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=vite,webpack,babel,npm,pnpm&theme=dark" />
@@ -72,11 +71,10 @@ const atef = {
 <!-- GITHUB STATS -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
 
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Atef-mohamed&show_icons=true&rank_icon=github&hide_border=true&bg_color=0a0a12&title_color=00F7FF&icon_color=6C63FF&text_color=e8e8f0&ring_color=00F7FF" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atef-mohamed&layout=compact&langs_count=6&hide_border=true&bg_color=0a0a12&title_color=00F7FF&text_color=e8e8f0" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Atef-mohamed&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=14400&rank_icon=github&hide_border=true&bg_color=0a0a12&title_color=00F7FF&icon_color=6C63FF&text_color=e8e8f0&ring_color=00F7FF" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atef-mohamed&layout=compact&langs_count=6&cache_seconds=14400&hide_border=true&bg_color=0a0a12&title_color=00F7FF&text_color=e8e8f0" height="170"/>
 
 <img src="https://streak-stats.demolab.com?user=Atef-mohamed&hide_border=true&background=0a0a12&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF&sideLabels=e8e8f0&currStreakNum=ffffff&sideNums=ffffff&dates=8b8b9a&stroke=6C63FF" width="80%"/>
 
@@ -84,27 +82,26 @@ const atef = {
 
 </div>
 
-
 ---
 
 <div align="center">
 
-  `TypeScript ████████████████████░░  80%`       `Twig / Twilight ████████████████░░░░░░  90%`
+  `TypeScript ██████████████████░░░░  80%`       `Twig / Twilight ████████████████████░░  90%`
 
-  `React / Next.js ██████████████████░░░░  80%`  `Web Components ████████████████░░░░░░  70%`
+  `React / Next.js ██████████████████░░░░  80%`  `Web Components ███████████████░░░░░░░  70%`
 
-  `Tailwind CSS ████████████████████░░  90%`  
+  `Tailwind CSS ████████████████████░░  90%`
 
 </div>
 
 ---
-
 
 <!-- ═══════════════════════ SNAKE ═══════════════════════ -->
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Atef-mohamed/Atef-mohamed/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Atef-mohamed/Atef-mohamed/output/github-snake.svg"/>
   <img alt="contribution snake" src="https://raw.githubusercontent.com/Atef-mohamed/Atef-mohamed/output/github-snake.svg"/>
 </picture>
 
@@ -125,7 +122,6 @@ const atef = {
 </div>
 
 <br/>
-
 
 <!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>

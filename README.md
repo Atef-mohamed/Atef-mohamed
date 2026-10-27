@@ -89,14 +89,6 @@ const atef = {
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atef-mohamed&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true" width="95%"/>
-</div>
-
----
 
 <!-- SNAKE -->
 <div align="center">
@@ -123,9 +115,6 @@ const atef = {
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Atef-mohamed&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" />
-</div>
 
 <!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>

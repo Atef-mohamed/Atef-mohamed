@@ -75,12 +75,7 @@ const atef = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Atef-mohamed&show_icons=true&rank_icon=github&hide_border=true&bg_color=0a0a12&title_color=00F7FF&icon_color=6C63FF&text_color=e8e8f0&ring_color=00F7FF" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atef-mohamed&layout=compact&langs_count=6&hide_border=true&bg_color=0a0a12&title_color=00F7FF&text_color=e8e8f0" height="170"/>
-
-<img src="https://streak-stats.demolab.com?user=Atef-mohamed&hide_border=true&background=0a0a12&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF&sideLabels=e8e8f0&currStreakNum=ffffff&sideNums=ffffff&dates=8b8b9a&stroke=6C63FF" width="80%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Atef-mohamed&bg_color=0a0a12&color=00F7FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true" width="100%"/>
+<img src="./profile/streak.svg" alt="GitHub Streak" width="80%"/>
 
 </div>
 
